@@ -2,4 +2,4 @@
 
 ### Screen Shot of Airbnb UI
 
-![Screenshot](screenshot.png){:height="50%" width="50%"}
+![<img src="screenshot.png" width="250"/>](screenshot.png)
