@@ -1,3 +1,5 @@
-# Airnb-UI-Clone
+#AirBnb UI Clone
 
-![alt text](https://github.com/Vishwamagdavan/Airnb-UI-Clone/screenshot.png?raw=true)
+### Screen Shot of Airbnb UI
+
+![Screenshot](screenshot.png)
